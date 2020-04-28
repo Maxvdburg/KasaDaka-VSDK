@@ -1,0 +1,27 @@
+[{
+  "model": "service_development.voicelabel",
+  "pk": 5111,
+  "fields": {
+    "name": "Dit is de waaaaaarheid",
+    "description": ""
+  }
+},{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 5111,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:49:50.055Z",
+    "modification_date": "2018-02-16T16:42:51.484Z",
+    "name": "Dit is de waarheid",
+    "description": "",
+    "voice_label": 3
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 5111,
+  "fields": {
+    "final_element": false,
+    "_redirect": 6
+  }
+}]
