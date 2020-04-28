@@ -1,0 +1,6340 @@
+[
+{
+  "model": "service_development.voicelabel",
+  "pk": 1,
+  "fields": {
+    "name": "Dutch language",
+    "description": "Nederlandse taal"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 2,
+  "fields": {
+    "name": "General error message",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 3,
+  "fields": {
+    "name": "This is the truth",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 4,
+  "fields": {
+    "name": "English language",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 5,
+  "fields": {
+    "name": "Thank you for using this service",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 6,
+  "fields": {
+    "name": "Wow, it must be a really boring guy!",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 7,
+  "fields": {
+    "name": "French language",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 8,
+  "fields": {
+    "name": "Please select your language",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 9,
+  "fields": {
+    "name": "Pre Choice Option",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 10,
+  "fields": {
+    "name": "Post Choice Option",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 11,
+  "fields": {
+    "name": "One",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 12,
+  "fields": {
+    "name": "Two",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 13,
+  "fields": {
+    "name": "Three",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 14,
+  "fields": {
+    "name": "Four",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 15,
+  "fields": {
+    "name": "Five",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 16,
+  "fields": {
+    "name": "Six",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 17,
+  "fields": {
+    "name": "Seven",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 18,
+  "fields": {
+    "name": "Eight",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 19,
+  "fields": {
+    "name": "Nine",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 20,
+  "fields": {
+    "name": "Zero",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 21,
+  "fields": {
+    "name": "Yes",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 22,
+  "fields": {
+    "name": "No",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 23,
+  "fields": {
+    "name": "Does the king like to drink beer?",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 25,
+  "fields": {
+    "name": "Please speak your message",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 26,
+  "fields": {
+    "name": "Pre-select region",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 27,
+  "fields": {
+    "name": "Region: Gao",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 28,
+  "fields": {
+    "name": "Region: Kidal",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 29,
+  "fields": {
+    "name": "Region: Kayes",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 30,
+  "fields": {
+    "name": "Region: Koulikoro",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 31,
+  "fields": {
+    "name": "Pre-select city",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 32,
+  "fields": {
+    "name": "City: Gao",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 33,
+  "fields": {
+    "name": "City: Bamba",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 34,
+  "fields": {
+    "name": "City: Kayes",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 35,
+  "fields": {
+    "name": "City: Kita",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 36,
+  "fields": {
+    "name": "City: Koulikoro",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 37,
+  "fields": {
+    "name": "City: Kati",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 38,
+  "fields": {
+    "name": "City: Kidal",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 39,
+  "fields": {
+    "name": "City: Tessalit",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 40,
+  "fields": {
+    "name": "Pre-select weather topic",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 41,
+  "fields": {
+    "name": "Previous rainfall",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 42,
+  "fields": {
+    "name": "Coming rainfall",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 43,
+  "fields": {
+    "name": "Sun intensity",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 44,
+  "fields": {
+    "name": "Wind strength",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 45,
+  "fields": {
+    "name": "Other region",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 46,
+  "fields": {
+    "name": "End call",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 47,
+  "fields": {
+    "name": "Prev_Rain_A",
+    "description": "Two examples: this is example A"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 48,
+  "fields": {
+    "name": "Com_Rain_A",
+    "description": "Two examples: this is example A"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 49,
+  "fields": {
+    "name": "Sun_A",
+    "description": "Two examples: this is example A"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 50,
+  "fields": {
+    "name": "Wind Strength_A",
+    "description": "Two examples: this is example A"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 51,
+  "fields": {
+    "name": "Prev_Rain_B",
+    "description": "Two examples: this is example B"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 52,
+  "fields": {
+    "name": "Com_Rain_B",
+    "description": "Two examples: this is example B"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 53,
+  "fields": {
+    "name": "Sun_B",
+    "description": "Two examples: this is example B"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 54,
+  "fields": {
+    "name": "Wind Strength_B",
+    "description": "Two examples: this is example B"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 55,
+  "fields": {
+    "name": "Goodbye",
+    "description": null
+  }
+},
+{
+  "model": "service_development.language",
+  "pk": 1,
+  "fields": {
+    "name": "Nederlands",
+    "code": "nl",
+    "voice_label": 1,
+    "error_message": 2,
+    "select_language": 8,
+    "pre_choice_option": 9,
+    "post_choice_option": 10,
+    "one": 11,
+    "two": 12,
+    "three": 13,
+    "four": 14,
+    "five": 15,
+    "six": 16,
+    "seven": 17,
+    "eight": 18,
+    "nine": 19,
+    "zero": 20
+  }
+},
+{
+  "model": "service_development.language",
+  "pk": 2,
+  "fields": {
+    "name": "English",
+    "code": "en",
+    "voice_label": 4,
+    "error_message": 2,
+    "select_language": 8,
+    "pre_choice_option": 9,
+    "post_choice_option": 10,
+    "one": 11,
+    "two": 12,
+    "three": 13,
+    "four": 14,
+    "five": 15,
+    "six": 16,
+    "seven": 17,
+    "eight": 18,
+    "nine": 19,
+    "zero": 20
+  }
+},
+{
+  "model": "service_development.language",
+  "pk": 3,
+  "fields": {
+    "name": "Francais",
+    "code": "fr",
+    "voice_label": 7,
+    "error_message": 2,
+    "select_language": 8,
+    "pre_choice_option": 9,
+    "post_choice_option": 10,
+    "one": 11,
+    "two": 12,
+    "three": 13,
+    "four": 14,
+    "five": 15,
+    "six": 16,
+    "seven": 17,
+    "eight": 18,
+    "nine": 19,
+    "zero": 20
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 1,
+  "fields": {
+    "parent": 6,
+    "language": 2,
+    "audio": "boring_guy_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 2,
+  "fields": {
+    "parent": 6,
+    "language": 1,
+    "audio": "boring_guy_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 6,
+  "fields": {
+    "parent": 22,
+    "language": 1,
+    "audio": "no_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 7,
+  "fields": {
+    "parent": 22,
+    "language": 2,
+    "audio": "no_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 8,
+  "fields": {
+    "parent": 22,
+    "language": 3,
+    "audio": "no_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 9,
+  "fields": {
+    "parent": 21,
+    "language": 1,
+    "audio": "yes_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 10,
+  "fields": {
+    "parent": 21,
+    "language": 2,
+    "audio": "yes_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 11,
+  "fields": {
+    "parent": 21,
+    "language": 3,
+    "audio": "yes_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 12,
+  "fields": {
+    "parent": 20,
+    "language": 1,
+    "audio": "0_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 13,
+  "fields": {
+    "parent": 20,
+    "language": 2,
+    "audio": "0_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 14,
+  "fields": {
+    "parent": 20,
+    "language": 3,
+    "audio": "0_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 15,
+  "fields": {
+    "parent": 19,
+    "language": 1,
+    "audio": "9_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 16,
+  "fields": {
+    "parent": 19,
+    "language": 2,
+    "audio": "9_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 17,
+  "fields": {
+    "parent": 19,
+    "language": 3,
+    "audio": "9_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 18,
+  "fields": {
+    "parent": 18,
+    "language": 1,
+    "audio": "8_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 19,
+  "fields": {
+    "parent": 18,
+    "language": 2,
+    "audio": "8_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 20,
+  "fields": {
+    "parent": 18,
+    "language": 3,
+    "audio": "8_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 21,
+  "fields": {
+    "parent": 17,
+    "language": 1,
+    "audio": "7_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 22,
+  "fields": {
+    "parent": 17,
+    "language": 2,
+    "audio": "7_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 23,
+  "fields": {
+    "parent": 17,
+    "language": 3,
+    "audio": "7_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 24,
+  "fields": {
+    "parent": 16,
+    "language": 1,
+    "audio": "6_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 25,
+  "fields": {
+    "parent": 16,
+    "language": 2,
+    "audio": "6_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 26,
+  "fields": {
+    "parent": 16,
+    "language": 3,
+    "audio": "6_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 27,
+  "fields": {
+    "parent": 15,
+    "language": 1,
+    "audio": "5_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 28,
+  "fields": {
+    "parent": 15,
+    "language": 2,
+    "audio": "5_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 29,
+  "fields": {
+    "parent": 15,
+    "language": 3,
+    "audio": "5_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 30,
+  "fields": {
+    "parent": 14,
+    "language": 1,
+    "audio": "4_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 31,
+  "fields": {
+    "parent": 14,
+    "language": 3,
+    "audio": "4_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 32,
+  "fields": {
+    "parent": 14,
+    "language": 2,
+    "audio": "4_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 33,
+  "fields": {
+    "parent": 13,
+    "language": 1,
+    "audio": "3_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 34,
+  "fields": {
+    "parent": 13,
+    "language": 2,
+    "audio": "3_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 35,
+  "fields": {
+    "parent": 13,
+    "language": 3,
+    "audio": "3_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 36,
+  "fields": {
+    "parent": 12,
+    "language": 1,
+    "audio": "2_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 37,
+  "fields": {
+    "parent": 12,
+    "language": 2,
+    "audio": "2_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 38,
+  "fields": {
+    "parent": 12,
+    "language": 3,
+    "audio": "2_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 39,
+  "fields": {
+    "parent": 11,
+    "language": 1,
+    "audio": "1_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 40,
+  "fields": {
+    "parent": 11,
+    "language": 2,
+    "audio": "1_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 41,
+  "fields": {
+    "parent": 11,
+    "language": 3,
+    "audio": "1_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 42,
+  "fields": {
+    "parent": 10,
+    "language": 1,
+    "audio": "post_choice_option_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 43,
+  "fields": {
+    "parent": 10,
+    "language": 2,
+    "audio": "post_choice_option_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 44,
+  "fields": {
+    "parent": 10,
+    "language": 3,
+    "audio": "post_choice_option_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 45,
+  "fields": {
+    "parent": 9,
+    "language": 1,
+    "audio": "pre_choice_option_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 46,
+  "fields": {
+    "parent": 9,
+    "language": 2,
+    "audio": "pre_choice_option_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 47,
+  "fields": {
+    "parent": 9,
+    "language": 3,
+    "audio": "pre_choice_option_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 48,
+  "fields": {
+    "parent": 8,
+    "language": 1,
+    "audio": "select_language_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 49,
+  "fields": {
+    "parent": 8,
+    "language": 2,
+    "audio": "select_language_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 50,
+  "fields": {
+    "parent": 8,
+    "language": 3,
+    "audio": "select_language_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 51,
+  "fields": {
+    "parent": 7,
+    "language": 1,
+    "audio": "french_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 52,
+  "fields": {
+    "parent": 7,
+    "language": 2,
+    "audio": "french_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 53,
+  "fields": {
+    "parent": 7,
+    "language": 3,
+    "audio": "french_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 54,
+  "fields": {
+    "parent": 6,
+    "language": 3,
+    "audio": "boring_guy_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 55,
+  "fields": {
+    "parent": 5,
+    "language": 1,
+    "audio": "thank_you_for_using_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 56,
+  "fields": {
+    "parent": 5,
+    "language": 2,
+    "audio": "thank_you_for_using_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 57,
+  "fields": {
+    "parent": 5,
+    "language": 3,
+    "audio": "thank_you_for_using_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 58,
+  "fields": {
+    "parent": 4,
+    "language": 1,
+    "audio": "english_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 59,
+  "fields": {
+    "parent": 4,
+    "language": 2,
+    "audio": "english_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 60,
+  "fields": {
+    "parent": 4,
+    "language": 3,
+    "audio": "english_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 61,
+  "fields": {
+    "parent": 3,
+    "language": 1,
+    "audio": "truth_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 62,
+  "fields": {
+    "parent": 3,
+    "language": 2,
+    "audio": "truth_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 63,
+  "fields": {
+    "parent": 3,
+    "language": 3,
+    "audio": "truth_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 64,
+  "fields": {
+    "parent": 2,
+    "language": 1,
+    "audio": "error_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 65,
+  "fields": {
+    "parent": 2,
+    "language": 2,
+    "audio": "error_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 66,
+  "fields": {
+    "parent": 2,
+    "language": 3,
+    "audio": "error_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 67,
+  "fields": {
+    "parent": 1,
+    "language": 1,
+    "audio": "dutch_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 68,
+  "fields": {
+    "parent": 1,
+    "language": 2,
+    "audio": "dutch_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 69,
+  "fields": {
+    "parent": 1,
+    "language": 3,
+    "audio": "dutch_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 70,
+  "fields": {
+    "parent": 23,
+    "language": 1,
+    "audio": "king_question_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 71,
+  "fields": {
+    "parent": 23,
+    "language": 2,
+    "audio": "king_question_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 72,
+  "fields": {
+    "parent": 23,
+    "language": 3,
+    "audio": "king_question_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 74,
+  "fields": {
+    "parent": 25,
+    "language": 3,
+    "audio": "speakYourMessage.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 75,
+  "fields": {
+    "parent": 26,
+    "language": 1,
+    "audio": "selectregion_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 76,
+  "fields": {
+    "parent": 26,
+    "language": 2,
+    "audio": "selectregion_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 77,
+  "fields": {
+    "parent": 27,
+    "language": 1,
+    "audio": "Gao.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 78,
+  "fields": {
+    "parent": 27,
+    "language": 2,
+    "audio": "Gao_f6SuhTz.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 79,
+  "fields": {
+    "parent": 28,
+    "language": 1,
+    "audio": "Kidal.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 80,
+  "fields": {
+    "parent": 28,
+    "language": 2,
+    "audio": "Kidal_mvbePDA.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 81,
+  "fields": {
+    "parent": 29,
+    "language": 1,
+    "audio": "Kidal_aaH8BAq.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 82,
+  "fields": {
+    "parent": 29,
+    "language": 2,
+    "audio": "Kidal_hFjnG6W.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 83,
+  "fields": {
+    "parent": 30,
+    "language": 1,
+    "audio": "Koulikoro.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 84,
+  "fields": {
+    "parent": 30,
+    "language": 2,
+    "audio": "Koulikoro_LI83LLe.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 85,
+  "fields": {
+    "parent": 31,
+    "language": 1,
+    "audio": "city_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 86,
+  "fields": {
+    "parent": 31,
+    "language": 2,
+    "audio": "city_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 87,
+  "fields": {
+    "parent": 32,
+    "language": 1,
+    "audio": "Gao_vyOQURL.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 88,
+  "fields": {
+    "parent": 32,
+    "language": 2,
+    "audio": "Gao_4TrEQjq.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 89,
+  "fields": {
+    "parent": 33,
+    "language": 1,
+    "audio": "Bamba.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 90,
+  "fields": {
+    "parent": 33,
+    "language": 2,
+    "audio": "Bamba_uDKGPKE.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 91,
+  "fields": {
+    "parent": 34,
+    "language": 1,
+    "audio": "Kayes.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 92,
+  "fields": {
+    "parent": 34,
+    "language": 2,
+    "audio": "Kayes_oYDmfuA.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 93,
+  "fields": {
+    "parent": 35,
+    "language": 1,
+    "audio": "Kita.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 94,
+  "fields": {
+    "parent": 35,
+    "language": 2,
+    "audio": "Kita_IzgFIKR.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 95,
+  "fields": {
+    "parent": 36,
+    "language": 1,
+    "audio": "Koulikoro_e41D97A.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 96,
+  "fields": {
+    "parent": 36,
+    "language": 2,
+    "audio": "Koulikoro_qD8A7OH.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 97,
+  "fields": {
+    "parent": 37,
+    "language": 1,
+    "audio": "Kati.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 98,
+  "fields": {
+    "parent": 37,
+    "language": 2,
+    "audio": "Kati_GGflydx.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 99,
+  "fields": {
+    "parent": 38,
+    "language": 1,
+    "audio": "Kidal_yGzbM9i.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 100,
+  "fields": {
+    "parent": 38,
+    "language": 2,
+    "audio": "Kidal_IH8c0I2.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 101,
+  "fields": {
+    "parent": 39,
+    "language": 1,
+    "audio": "Tessalit.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 102,
+  "fields": {
+    "parent": 39,
+    "language": 2,
+    "audio": "Tessalit_p7ZYlme.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 103,
+  "fields": {
+    "parent": 40,
+    "language": 1,
+    "audio": "chooseweather_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 104,
+  "fields": {
+    "parent": 40,
+    "language": 2,
+    "audio": "chooseweather_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 105,
+  "fields": {
+    "parent": 41,
+    "language": 1,
+    "audio": "previous_rainfall_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 106,
+  "fields": {
+    "parent": 41,
+    "language": 2,
+    "audio": "previous_rainfall_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 107,
+  "fields": {
+    "parent": 42,
+    "language": 1,
+    "audio": "coming_rainfall_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 108,
+  "fields": {
+    "parent": 42,
+    "language": 2,
+    "audio": "coming_rainfall_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 109,
+  "fields": {
+    "parent": 43,
+    "language": 1,
+    "audio": "sun_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 110,
+  "fields": {
+    "parent": 43,
+    "language": 2,
+    "audio": "sun_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 111,
+  "fields": {
+    "parent": 44,
+    "language": 1,
+    "audio": "wind_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 112,
+  "fields": {
+    "parent": 44,
+    "language": 2,
+    "audio": "wind_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 113,
+  "fields": {
+    "parent": 45,
+    "language": 1,
+    "audio": "other_region_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 114,
+  "fields": {
+    "parent": 45,
+    "language": 2,
+    "audio": "other_region_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 115,
+  "fields": {
+    "parent": 46,
+    "language": 1,
+    "audio": "end_call_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 116,
+  "fields": {
+    "parent": 46,
+    "language": 2,
+    "audio": "end_call_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 117,
+  "fields": {
+    "parent": 47,
+    "language": 1,
+    "audio": "prev_rain_10_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 118,
+  "fields": {
+    "parent": 47,
+    "language": 2,
+    "audio": "prev_rain_10_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 119,
+  "fields": {
+    "parent": 48,
+    "language": 1,
+    "audio": "com_rain_5_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 120,
+  "fields": {
+    "parent": 48,
+    "language": 2,
+    "audio": "com_rain_5_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 121,
+  "fields": {
+    "parent": 49,
+    "language": 1,
+    "audio": "sun_6_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 122,
+  "fields": {
+    "parent": 49,
+    "language": 2,
+    "audio": "sun_6_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 123,
+  "fields": {
+    "parent": 50,
+    "language": 1,
+    "audio": "wind_1_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 124,
+  "fields": {
+    "parent": 50,
+    "language": 2,
+    "audio": "wind_1_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 125,
+  "fields": {
+    "parent": 51,
+    "language": 1,
+    "audio": "prevrain5_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 126,
+  "fields": {
+    "parent": 51,
+    "language": 2,
+    "audio": "prevrain5_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 127,
+  "fields": {
+    "parent": 52,
+    "language": 1,
+    "audio": "comrain_10_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 128,
+  "fields": {
+    "parent": 52,
+    "language": 2,
+    "audio": "comrain10_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 129,
+  "fields": {
+    "parent": 53,
+    "language": 1,
+    "audio": "sun_4_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 130,
+  "fields": {
+    "parent": 53,
+    "language": 2,
+    "audio": "sun_4_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 131,
+  "fields": {
+    "parent": 54,
+    "language": 1,
+    "audio": "wind_2_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 132,
+  "fields": {
+    "parent": 54,
+    "language": 2,
+    "audio": "wind_2_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 133,
+  "fields": {
+    "parent": 55,
+    "language": 1,
+    "audio": "thanks_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 134,
+  "fields": {
+    "parent": 55,
+    "language": 2,
+    "audio": "thanks_en.wav"
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 2,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:30:23.792Z",
+    "modification_date": "2018-02-16T16:42:26.402Z",
+    "name": "Does the king like to drink beer?",
+    "description": "",
+    "voice_label": 23
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 3,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:32:07.853Z",
+    "modification_date": "2018-01-25T14:35:48.977Z",
+    "name": "Yes",
+    "description": "King <3's BEER",
+    "voice_label": 21
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 4,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:32:07.854Z",
+    "modification_date": "2018-02-16T16:42:26.405Z",
+    "name": "No",
+    "description": "",
+    "voice_label": 22
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 5,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:49:50.055Z",
+    "modification_date": "2018-02-16T16:42:51.484Z",
+    "name": "This is the truth",
+    "description": "",
+    "voice_label": 3
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 6,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T21:11:06.805Z",
+    "modification_date": "2017-04-23T21:33:29.853Z",
+    "name": "Thank you for using this service",
+    "description": "",
+    "voice_label": 5
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 7,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T21:36:55.756Z",
+    "modification_date": "2017-04-23T21:36:55.756Z",
+    "name": "King is boring",
+    "description": "",
+    "voice_label": 6
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 8,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:13:04.120Z",
+    "modification_date": "2020-04-25T14:35:01.894Z",
+    "name": "Select region",
+    "description": "",
+    "voice_label": 26
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 9,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:13:04.122Z",
+    "modification_date": "2020-04-25T14:35:01.900Z",
+    "name": "Gao",
+    "description": "Select Gao as region",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 10,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:13:04.123Z",
+    "modification_date": "2020-04-25T14:35:01.902Z",
+    "name": "Kidal",
+    "description": "Select Kidal as region",
+    "voice_label": 28
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 11,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:13:04.123Z",
+    "modification_date": "2020-04-25T14:35:01.904Z",
+    "name": "Kayes",
+    "description": "Select Kayes as region",
+    "voice_label": 29
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 12,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:13:04.124Z",
+    "modification_date": "2020-04-25T14:35:01.905Z",
+    "name": "Koulikoro",
+    "description": "Select Koulikoro as region",
+    "voice_label": 30
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 13,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:17:10.262Z",
+    "modification_date": "2020-04-28T14:16:32.729Z",
+    "name": "Select city in region Gao",
+    "description": "",
+    "voice_label": 31
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 14,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:17:10.265Z",
+    "modification_date": "2020-04-28T14:16:32.736Z",
+    "name": "Gao",
+    "description": "Select Gao as city",
+    "voice_label": 32
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 15,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:17:10.267Z",
+    "modification_date": "2020-04-28T14:16:32.740Z",
+    "name": "Bamba",
+    "description": "Select Bamba as city",
+    "voice_label": 33
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 16,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:21:26.525Z",
+    "modification_date": "2020-04-28T14:17:03.745Z",
+    "name": "Select city in region: Kayes",
+    "description": "",
+    "voice_label": 31
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 17,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:21:26.528Z",
+    "modification_date": "2020-04-28T14:17:03.748Z",
+    "name": "Kayes",
+    "description": "Select Kayes as city",
+    "voice_label": 34
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 18,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:21:26.531Z",
+    "modification_date": "2020-04-28T14:17:03.750Z",
+    "name": "Kita",
+    "description": "Select Kita as city",
+    "voice_label": 35
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 19,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:28:19.101Z",
+    "modification_date": "2020-04-28T14:17:25.553Z",
+    "name": "Select city in region Koulikoro",
+    "description": "",
+    "voice_label": 31
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 20,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:28:19.104Z",
+    "modification_date": "2020-04-28T14:17:25.557Z",
+    "name": "Koulikoro",
+    "description": "Select Koulikoro as city",
+    "voice_label": 36
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 21,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:28:19.105Z",
+    "modification_date": "2020-04-28T14:17:25.562Z",
+    "name": "Kati",
+    "description": "Select Kati as city",
+    "voice_label": 37
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 22,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:34:27.094Z",
+    "modification_date": "2020-04-28T14:17:45.576Z",
+    "name": "Select city in region Kidal",
+    "description": "",
+    "voice_label": 31
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 23,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:34:27.097Z",
+    "modification_date": "2020-04-28T14:17:45.579Z",
+    "name": "Kidal",
+    "description": "Select Kidal as city",
+    "voice_label": 38
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 24,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:34:27.100Z",
+    "modification_date": "2020-04-28T14:17:45.582Z",
+    "name": "Tessalit",
+    "description": "Select Tessalit as city",
+    "voice_label": 39
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 25,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:45:13.608Z",
+    "modification_date": "2020-04-28T14:20:44.522Z",
+    "name": "Select weather topic in Gao",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 26,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:45:13.613Z",
+    "modification_date": "2020-04-28T14:19:17.486Z",
+    "name": "Previous rainfall in Gao",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 27,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:45:13.614Z",
+    "modification_date": "2020-04-28T14:19:17.488Z",
+    "name": "Coming rainfall in Gao",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 28,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:45:13.615Z",
+    "modification_date": "2020-04-28T14:19:17.489Z",
+    "name": "Sun intensity in Gao",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 29,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:45:13.616Z",
+    "modification_date": "2020-04-28T14:19:17.491Z",
+    "name": "Wind strength in Gao",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 30,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:45:13.617Z",
+    "modification_date": "2020-04-28T14:20:44.526Z",
+    "name": "Select another region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 31,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:45:13.619Z",
+    "modification_date": "2020-04-28T14:19:17.494Z",
+    "name": "End call",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 32,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:47:19.254Z",
+    "modification_date": "2020-04-28T14:21:18.826Z",
+    "name": "Select weather topic in Kidal",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 33,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:47:19.258Z",
+    "modification_date": "2020-04-28T14:21:18.835Z",
+    "name": "Previous rainfall Kidal",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 34,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:47:19.259Z",
+    "modification_date": "2020-04-28T14:21:18.837Z",
+    "name": "Coming rainfall Kidal",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 35,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:47:19.260Z",
+    "modification_date": "2020-04-28T14:21:18.838Z",
+    "name": "Sun intensity Kidal",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 36,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:47:19.261Z",
+    "modification_date": "2020-04-28T14:21:18.840Z",
+    "name": "Wind strength Kidal",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 37,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:47:19.262Z",
+    "modification_date": "2020-04-28T14:21:18.841Z",
+    "name": "Select another region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 38,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-25T14:47:19.262Z",
+    "modification_date": "2020-04-28T14:21:18.846Z",
+    "name": "End call",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 39,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:18:22.698Z",
+    "modification_date": "2020-04-28T14:21:54.269Z",
+    "name": "Select weather topic in Bamba",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 40,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:18:22.708Z",
+    "modification_date": "2020-04-28T14:21:54.273Z",
+    "name": "previous rainfall Bamba",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 41,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:18:22.714Z",
+    "modification_date": "2020-04-28T14:21:54.274Z",
+    "name": "coming rainfall Bamba",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 42,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:18:22.715Z",
+    "modification_date": "2020-04-28T14:21:54.276Z",
+    "name": "sun intensity Bamba",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 43,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:18:22.718Z",
+    "modification_date": "2020-04-28T14:21:54.277Z",
+    "name": "wind strength Bamba",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 44,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:18:22.720Z",
+    "modification_date": "2020-04-28T14:21:54.279Z",
+    "name": "Select other region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 45,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:18:22.722Z",
+    "modification_date": "2020-04-28T14:21:54.281Z",
+    "name": "End",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 46,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:27:33.919Z",
+    "modification_date": "2020-04-28T14:22:33.913Z",
+    "name": "Select weather topic in Kayes",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 47,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:27:33.939Z",
+    "modification_date": "2020-04-28T14:22:33.918Z",
+    "name": "previous rainfall Kayes",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 48,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:27:33.941Z",
+    "modification_date": "2020-04-28T14:22:33.920Z",
+    "name": "coming rainfall Kayes",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 49,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:27:33.944Z",
+    "modification_date": "2020-04-28T14:22:33.922Z",
+    "name": "sun intensity Kayes",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 50,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:27:33.946Z",
+    "modification_date": "2020-04-28T14:22:33.923Z",
+    "name": "wind strength Kayes",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 51,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:27:33.947Z",
+    "modification_date": "2020-04-28T14:22:33.925Z",
+    "name": "Select other region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 52,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:27:33.949Z",
+    "modification_date": "2020-04-28T14:22:33.928Z",
+    "name": "End call",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 53,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:28:59.707Z",
+    "modification_date": "2020-04-28T14:23:04.758Z",
+    "name": "Select weather topic in Kita",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 54,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:28:59.711Z",
+    "modification_date": "2020-04-28T14:23:04.761Z",
+    "name": "previous rainfall Kita",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 55,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:28:59.713Z",
+    "modification_date": "2020-04-28T14:23:04.763Z",
+    "name": "coming rainfall Kita",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 56,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:28:59.714Z",
+    "modification_date": "2020-04-28T14:23:04.768Z",
+    "name": "sun intensity Kita",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 57,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:28:59.715Z",
+    "modification_date": "2020-04-28T14:23:04.772Z",
+    "name": "wind strength Kita",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 58,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:28:59.716Z",
+    "modification_date": "2020-04-28T14:23:04.774Z",
+    "name": "Select other region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 59,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:28:59.718Z",
+    "modification_date": "2020-04-28T14:23:04.776Z",
+    "name": "End",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 60,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:30:35.738Z",
+    "modification_date": "2020-04-28T14:23:39.277Z",
+    "name": "Select weather topic in Kati",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 61,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:30:35.739Z",
+    "modification_date": "2020-04-28T14:23:39.283Z",
+    "name": "previous rainfall Kati",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 62,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:30:35.740Z",
+    "modification_date": "2020-04-28T14:23:39.287Z",
+    "name": "coming rainfall Kati",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 63,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:30:35.741Z",
+    "modification_date": "2020-04-28T14:23:39.291Z",
+    "name": "sun intensity Kati",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 64,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:30:35.741Z",
+    "modification_date": "2020-04-28T14:23:39.293Z",
+    "name": "wind strength Kati",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 65,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:30:35.743Z",
+    "modification_date": "2020-04-28T14:23:39.294Z",
+    "name": "Select other region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 66,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:30:35.744Z",
+    "modification_date": "2020-04-28T14:23:39.296Z",
+    "name": "End call",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 67,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:50:44.501Z",
+    "modification_date": "2020-04-28T14:24:16.147Z",
+    "name": "Select weather topic in Koulikoro",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 68,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:50:44.507Z",
+    "modification_date": "2020-04-28T14:24:16.150Z",
+    "name": "previous rainfall Koulikoro",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 69,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:50:44.509Z",
+    "modification_date": "2020-04-28T14:24:16.151Z",
+    "name": "coming rainfall Koulikoro",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 70,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:50:44.511Z",
+    "modification_date": "2020-04-28T14:24:16.153Z",
+    "name": "sun intensity Koulikoro",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 71,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:50:44.513Z",
+    "modification_date": "2020-04-28T14:24:16.157Z",
+    "name": "wind strength Koulikoro",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 72,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:50:44.514Z",
+    "modification_date": "2020-04-28T14:24:16.160Z",
+    "name": "Select other region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 73,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:50:44.514Z",
+    "modification_date": "2020-04-28T14:24:16.162Z",
+    "name": "End call",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 74,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:52:05.391Z",
+    "modification_date": "2020-04-28T14:25:06.078Z",
+    "name": "Select weather topic in Tessalit",
+    "description": "",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 75,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:52:05.392Z",
+    "modification_date": "2020-04-28T14:25:06.084Z",
+    "name": "previous rainfall Tessalit",
+    "description": "",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 76,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:52:05.393Z",
+    "modification_date": "2020-04-28T14:25:06.086Z",
+    "name": "coming rainfall Tessalit",
+    "description": "",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 77,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:52:05.394Z",
+    "modification_date": "2020-04-28T14:25:06.087Z",
+    "name": "sun intensity Tessalit",
+    "description": "",
+    "voice_label": 43
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 78,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:52:05.395Z",
+    "modification_date": "2020-04-28T14:25:06.089Z",
+    "name": "wind strength Tessalit",
+    "description": "",
+    "voice_label": 44
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 79,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:52:05.396Z",
+    "modification_date": "2020-04-28T14:25:06.091Z",
+    "name": "Select other region",
+    "description": "",
+    "voice_label": 45
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 80,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T10:52:05.396Z",
+    "modification_date": "2020-04-28T14:25:06.093Z",
+    "name": "End call",
+    "description": "",
+    "voice_label": 46
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 81,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:51:19.548Z",
+    "modification_date": "2020-04-28T13:51:19.548Z",
+    "name": "City Gao: Prev_Rain",
+    "description": "",
+    "voice_label": 47
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 82,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:53:20.452Z",
+    "modification_date": "2020-04-28T13:53:20.452Z",
+    "name": "City Gao: Com_Rain",
+    "description": "",
+    "voice_label": 48
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 83,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:55:47.036Z",
+    "modification_date": "2020-04-28T13:55:47.036Z",
+    "name": "City Gao: Sun",
+    "description": "",
+    "voice_label": 49
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 84,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:56:38.119Z",
+    "modification_date": "2020-04-28T13:56:38.119Z",
+    "name": "City Gao: Wind",
+    "description": "",
+    "voice_label": 50
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 85,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:57:12.398Z",
+    "modification_date": "2020-04-28T13:57:12.398Z",
+    "name": "City Kita: Prev_Rain",
+    "description": "",
+    "voice_label": 47
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 86,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:57:40.632Z",
+    "modification_date": "2020-04-28T13:57:40.632Z",
+    "name": "City Kita: Com_Rain",
+    "description": "",
+    "voice_label": 48
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 87,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:58:03.606Z",
+    "modification_date": "2020-04-28T13:58:03.606Z",
+    "name": "City Kita: Sun",
+    "description": "",
+    "voice_label": 49
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 88,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:58:18.306Z",
+    "modification_date": "2020-04-28T13:58:18.306Z",
+    "name": "City Kita: Wind",
+    "description": "",
+    "voice_label": 50
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 89,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:59:05.727Z",
+    "modification_date": "2020-04-28T13:59:05.727Z",
+    "name": "City Kidal: Prev_Rain",
+    "description": "",
+    "voice_label": 47
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 90,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:59:22.708Z",
+    "modification_date": "2020-04-28T13:59:22.708Z",
+    "name": "City Kidal: Com_Rain",
+    "description": "",
+    "voice_label": 48
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 91,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T13:59:44.603Z",
+    "modification_date": "2020-04-28T13:59:44.603Z",
+    "name": "City Kidal: Sun",
+    "description": "",
+    "voice_label": 49
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 92,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:00:10.493Z",
+    "modification_date": "2020-04-28T14:00:10.493Z",
+    "name": "City Kidal: Wind",
+    "description": "",
+    "voice_label": 50
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 93,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:00:42.846Z",
+    "modification_date": "2020-04-28T14:00:42.846Z",
+    "name": "City Koulikoro: Prev_Rain",
+    "description": "",
+    "voice_label": 47
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 94,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:01:06.742Z",
+    "modification_date": "2020-04-28T14:01:06.742Z",
+    "name": "City Koulikoro: Com_Rain",
+    "description": "",
+    "voice_label": 48
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 95,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:01:26.935Z",
+    "modification_date": "2020-04-28T14:01:26.935Z",
+    "name": "City Koulikoro: Sun",
+    "description": "",
+    "voice_label": 49
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 96,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:01:41.943Z",
+    "modification_date": "2020-04-28T14:01:41.944Z",
+    "name": "City Koulikoro: Wind",
+    "description": "",
+    "voice_label": 50
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 97,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:05:05.160Z",
+    "modification_date": "2020-04-28T14:05:05.160Z",
+    "name": "City Bamba: Prev_Rain",
+    "description": "",
+    "voice_label": 51
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 98,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:05:59.841Z",
+    "modification_date": "2020-04-28T14:05:59.841Z",
+    "name": "City Bamba: Com_Rain",
+    "description": "",
+    "voice_label": 52
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 99,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:06:43.593Z",
+    "modification_date": "2020-04-28T14:06:43.593Z",
+    "name": "City Bamba: Sun",
+    "description": "",
+    "voice_label": 53
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 100,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:07:30.049Z",
+    "modification_date": "2020-04-28T14:07:30.049Z",
+    "name": "City Bamba: Wind",
+    "description": "",
+    "voice_label": 54
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 101,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:08:00.600Z",
+    "modification_date": "2020-04-28T14:08:00.600Z",
+    "name": "City Kayes: Prev_Rain",
+    "description": "",
+    "voice_label": 51
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 102,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:08:22.514Z",
+    "modification_date": "2020-04-28T14:08:22.514Z",
+    "name": "City Kayes: Com_Rain",
+    "description": "",
+    "voice_label": 52
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 103,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:08:40.569Z",
+    "modification_date": "2020-04-28T14:08:40.569Z",
+    "name": "City Kayes: Sun",
+    "description": "",
+    "voice_label": 53
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 104,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:09:05.913Z",
+    "modification_date": "2020-04-28T14:09:05.913Z",
+    "name": "City Kayes: Wind",
+    "description": "",
+    "voice_label": 54
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 105,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:09:34.120Z",
+    "modification_date": "2020-04-28T14:09:34.120Z",
+    "name": "City Tessalit: Prev_Rain",
+    "description": "",
+    "voice_label": 51
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 106,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:09:56.723Z",
+    "modification_date": "2020-04-28T14:09:56.723Z",
+    "name": "City Tessalit: Com_Rain",
+    "description": "",
+    "voice_label": 52
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 107,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:10:22.136Z",
+    "modification_date": "2020-04-28T14:10:22.136Z",
+    "name": "City Tessalit: Sun",
+    "description": "",
+    "voice_label": 53
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 108,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:10:37.860Z",
+    "modification_date": "2020-04-28T14:10:37.860Z",
+    "name": "City Tessalit: Wind",
+    "description": "",
+    "voice_label": 54
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 109,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:10:59.791Z",
+    "modification_date": "2020-04-28T14:10:59.791Z",
+    "name": "City Kati: Prev_Rain",
+    "description": "",
+    "voice_label": 51
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 110,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:11:23.530Z",
+    "modification_date": "2020-04-28T14:11:23.530Z",
+    "name": "City Kati: Com_Rain",
+    "description": "",
+    "voice_label": 52
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 111,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:11:40.447Z",
+    "modification_date": "2020-04-28T14:11:40.447Z",
+    "name": "City Kati: Sun",
+    "description": "",
+    "voice_label": 53
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 112,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:12:02.417Z",
+    "modification_date": "2020-04-28T14:12:02.418Z",
+    "name": "City Kati: Wind",
+    "description": "",
+    "voice_label": 54
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 113,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-28T14:13:14.235Z",
+    "modification_date": "2020-04-28T14:13:14.235Z",
+    "name": "End call",
+    "description": "",
+    "voice_label": 55
+  }
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 2,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 5,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 6,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 7,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 8,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 13,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 16,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 19,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 22,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 25,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 32,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 39,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 46,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 53,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 60,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 67,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 74,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 81,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 82,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 83,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 84,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 85,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 86,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 87,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 88,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 89,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 90,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 91,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 92,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 93,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 94,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 95,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 96,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 97,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 98,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 99,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 100,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 101,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 102,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 103,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 104,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 105,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 106,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 107,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 108,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 109,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 110,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 111,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 112,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 113,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceservice",
+  "pk": 1,
+  "fields": {
+    "name": "King's truth checker",
+    "description": "Checks the user's knowledge about the king of the Netherlands",
+    "creation_date": "2017-04-23T19:23:52.392Z",
+    "modification_date": "2018-02-16T09:58:43.936Z",
+    "active": false,
+    "_start_element": 2,
+    "registration": "preferred",
+    "registration_language": true,
+    "registration_name": false,
+    "supported_languages": [
+      1,
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "service_development.voiceservice",
+  "pk": 2,
+  "fields": {
+    "name": "MeteoCall",
+    "description": "MeteoCall part of ICT4D Course",
+    "creation_date": "2020-04-25T14:04:23.600Z",
+    "modification_date": "2020-04-25T14:04:23.600Z",
+    "active": true,
+    "_start_element": null,
+    "registration": "preferred",
+    "registration_language": true,
+    "registration_name": false,
+    "supported_languages": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "service_development.kasadakauser",
+  "pk": 1,
+  "fields": {
+    "caller_id": "456",
+    "first_name": "Henk",
+    "last_name": "Ernia",
+    "creation_date": "2018-02-02T11:10:27.670Z",
+    "modification_date": "2018-02-12T14:44:24.019Z",
+    "language": 1,
+    "service": 1
+  }
+},
+{
+  "model": "service_development.choice",
+  "pk": 2,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 8,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 13,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 16,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 19,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 22,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 25,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 32,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 39,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 46,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 53,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 60,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 67,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 74,
+  "fields": {}
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 3,
+  "fields": {
+    "parent": 2,
+    "_redirect": 5
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 4,
+  "fields": {
+    "parent": 2,
+    "_redirect": 7
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 9,
+  "fields": {
+    "parent": 8,
+    "_redirect": 13
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 10,
+  "fields": {
+    "parent": 8,
+    "_redirect": 22
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 11,
+  "fields": {
+    "parent": 8,
+    "_redirect": 16
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 12,
+  "fields": {
+    "parent": 8,
+    "_redirect": 19
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 14,
+  "fields": {
+    "parent": 13,
+    "_redirect": 25
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 15,
+  "fields": {
+    "parent": 13,
+    "_redirect": 39
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 17,
+  "fields": {
+    "parent": 16,
+    "_redirect": 46
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 18,
+  "fields": {
+    "parent": 16,
+    "_redirect": 53
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 20,
+  "fields": {
+    "parent": 19,
+    "_redirect": 67
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 21,
+  "fields": {
+    "parent": 19,
+    "_redirect": 60
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 23,
+  "fields": {
+    "parent": 22,
+    "_redirect": 32
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 24,
+  "fields": {
+    "parent": 22,
+    "_redirect": 74
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 26,
+  "fields": {
+    "parent": 25,
+    "_redirect": 81
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 27,
+  "fields": {
+    "parent": 25,
+    "_redirect": 82
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 28,
+  "fields": {
+    "parent": 25,
+    "_redirect": 83
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 29,
+  "fields": {
+    "parent": 25,
+    "_redirect": 84
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 30,
+  "fields": {
+    "parent": 25,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 31,
+  "fields": {
+    "parent": 25,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 33,
+  "fields": {
+    "parent": 32,
+    "_redirect": 89
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 34,
+  "fields": {
+    "parent": 32,
+    "_redirect": 90
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 35,
+  "fields": {
+    "parent": 32,
+    "_redirect": 91
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 36,
+  "fields": {
+    "parent": 32,
+    "_redirect": 92
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 37,
+  "fields": {
+    "parent": 32,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 38,
+  "fields": {
+    "parent": 32,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 40,
+  "fields": {
+    "parent": 39,
+    "_redirect": 97
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 41,
+  "fields": {
+    "parent": 39,
+    "_redirect": 98
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 42,
+  "fields": {
+    "parent": 39,
+    "_redirect": 99
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 43,
+  "fields": {
+    "parent": 39,
+    "_redirect": 100
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 44,
+  "fields": {
+    "parent": 39,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 45,
+  "fields": {
+    "parent": 39,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 47,
+  "fields": {
+    "parent": 46,
+    "_redirect": 101
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 48,
+  "fields": {
+    "parent": 46,
+    "_redirect": 102
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 49,
+  "fields": {
+    "parent": 46,
+    "_redirect": 103
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 50,
+  "fields": {
+    "parent": 46,
+    "_redirect": 104
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 51,
+  "fields": {
+    "parent": 46,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 52,
+  "fields": {
+    "parent": 46,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 54,
+  "fields": {
+    "parent": 53,
+    "_redirect": 85
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 55,
+  "fields": {
+    "parent": 53,
+    "_redirect": 86
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 56,
+  "fields": {
+    "parent": 53,
+    "_redirect": 87
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 57,
+  "fields": {
+    "parent": 53,
+    "_redirect": 88
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 58,
+  "fields": {
+    "parent": 53,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 59,
+  "fields": {
+    "parent": 53,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 61,
+  "fields": {
+    "parent": 60,
+    "_redirect": 109
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 62,
+  "fields": {
+    "parent": 60,
+    "_redirect": 110
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 63,
+  "fields": {
+    "parent": 60,
+    "_redirect": 111
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 64,
+  "fields": {
+    "parent": 60,
+    "_redirect": 112
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 65,
+  "fields": {
+    "parent": 60,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 66,
+  "fields": {
+    "parent": 60,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 68,
+  "fields": {
+    "parent": 67,
+    "_redirect": 93
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 69,
+  "fields": {
+    "parent": 67,
+    "_redirect": 94
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 70,
+  "fields": {
+    "parent": 67,
+    "_redirect": 95
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 71,
+  "fields": {
+    "parent": 67,
+    "_redirect": 96
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 72,
+  "fields": {
+    "parent": 67,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 73,
+  "fields": {
+    "parent": 67,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 75,
+  "fields": {
+    "parent": 74,
+    "_redirect": 105
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 76,
+  "fields": {
+    "parent": 74,
+    "_redirect": 106
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 77,
+  "fields": {
+    "parent": 74,
+    "_redirect": 107
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 78,
+  "fields": {
+    "parent": 74,
+    "_redirect": 108
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 79,
+  "fields": {
+    "parent": 74,
+    "_redirect": 8
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 80,
+  "fields": {
+    "parent": 74,
+    "_redirect": 113
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 5,
+  "fields": {
+    "final_element": false,
+    "_redirect": 6
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 6,
+  "fields": {
+    "final_element": true,
+    "_redirect": null
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 7,
+  "fields": {
+    "final_element": false,
+    "_redirect": 6
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 81,
+  "fields": {
+    "final_element": false,
+    "_redirect": 25
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 82,
+  "fields": {
+    "final_element": false,
+    "_redirect": 25
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 83,
+  "fields": {
+    "final_element": false,
+    "_redirect": 25
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 84,
+  "fields": {
+    "final_element": false,
+    "_redirect": 25
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 85,
+  "fields": {
+    "final_element": false,
+    "_redirect": 53
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 86,
+  "fields": {
+    "final_element": false,
+    "_redirect": 53
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 87,
+  "fields": {
+    "final_element": false,
+    "_redirect": 53
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 88,
+  "fields": {
+    "final_element": false,
+    "_redirect": 53
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 89,
+  "fields": {
+    "final_element": false,
+    "_redirect": 32
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 90,
+  "fields": {
+    "final_element": false,
+    "_redirect": 32
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 91,
+  "fields": {
+    "final_element": false,
+    "_redirect": 32
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 92,
+  "fields": {
+    "final_element": false,
+    "_redirect": 32
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 93,
+  "fields": {
+    "final_element": false,
+    "_redirect": 67
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 94,
+  "fields": {
+    "final_element": false,
+    "_redirect": 67
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 95,
+  "fields": {
+    "final_element": false,
+    "_redirect": 67
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 96,
+  "fields": {
+    "final_element": false,
+    "_redirect": 67
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 97,
+  "fields": {
+    "final_element": false,
+    "_redirect": 39
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 98,
+  "fields": {
+    "final_element": false,
+    "_redirect": 39
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 99,
+  "fields": {
+    "final_element": false,
+    "_redirect": 39
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 100,
+  "fields": {
+    "final_element": false,
+    "_redirect": 39
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 101,
+  "fields": {
+    "final_element": false,
+    "_redirect": 46
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 102,
+  "fields": {
+    "final_element": false,
+    "_redirect": 46
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 103,
+  "fields": {
+    "final_element": false,
+    "_redirect": 46
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 104,
+  "fields": {
+    "final_element": false,
+    "_redirect": 46
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 105,
+  "fields": {
+    "final_element": false,
+    "_redirect": 74
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 106,
+  "fields": {
+    "final_element": false,
+    "_redirect": 74
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 107,
+  "fields": {
+    "final_element": false,
+    "_redirect": 74
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 108,
+  "fields": {
+    "final_element": false,
+    "_redirect": 74
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 109,
+  "fields": {
+    "final_element": false,
+    "_redirect": 60
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 110,
+  "fields": {
+    "final_element": false,
+    "_redirect": 60
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 111,
+  "fields": {
+    "final_element": false,
+    "_redirect": 60
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 112,
+  "fields": {
+    "final_element": false,
+    "_redirect": 60
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 113,
+  "fields": {
+    "final_element": true,
+    "_redirect": null
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "service_development",
+    "model": "voicelabel"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "service_development",
+    "model": "language"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "service_development",
+    "model": "voicefragment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "service_development",
+    "model": "voiceservicesubelement"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "service_development",
+    "model": "voiceserviceelement"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "service_development",
+    "model": "voiceservice"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "service_development",
+    "model": "kasadakauser"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "service_development",
+    "model": "callsession"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "service_development",
+    "model": "callsessionstep"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "service_development",
+    "model": "choice"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "service_development",
+    "model": "choiceoption"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "service_development",
+    "model": "messagepresentation"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "service_development",
+    "model": "userinputcategory"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 14,
+  "fields": {
+    "app_label": "service_development",
+    "model": "spokenuserinput"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 15,
+  "fields": {
+    "app_label": "service_development",
+    "model": "record"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 16,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 17,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 18,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 19,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 20,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 21,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0yuwqz9t6zhwdzo933chd2pmual40wlr",
+  "fields": {
+    "session_data": "YTBmYmJhMzc2ZGM5YzRkNmYzZmJmNDdlNDAyZjA0MThjMjg2NTVjNTp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJhNGUyMTYwZmVmOTcyODkyNzI4YWE0NjI0YjFhMGZmOGRlYmUxY2Q2In0=",
+    "expire_date": "2020-05-12T10:08:31.394Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fk7knit78l831ecqpckgj8ya74mtxhqh",
+  "fields": {
+    "session_data": "MmU3YTY5MTNhMDU1ZjdkNzNiMjgwYjQ2YTM4M2YxMTY4NWE0NGQ4Mzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJiMWZjYjhmOTY2NjMxN2JhMDI2MGM0NDY5MDEzNjNmMWU5YTZhNTI1In0=",
+    "expire_date": "2020-05-09T09:43:48.089Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "nzrleufxt0xl4zdye45yxrf18gd9lfgp",
+  "fields": {
+    "session_data": "MmU3YTY5MTNhMDU1ZjdkNzNiMjgwYjQ2YTM4M2YxMTY4NWE0NGQ4Mzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJiMWZjYjhmOTY2NjMxN2JhMDI2MGM0NDY5MDEzNjNmMWU5YTZhNTI1In0=",
+    "expire_date": "2020-05-12T13:32:10.098Z"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add Voice Label",
+    "content_type": 1,
+    "codename": "add_voicelabel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change Voice Label",
+    "content_type": 1,
+    "codename": "change_voicelabel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete Voice Label",
+    "content_type": 1,
+    "codename": "delete_voicelabel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view Voice Label",
+    "content_type": 1,
+    "codename": "view_voicelabel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add Language",
+    "content_type": 2,
+    "codename": "add_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change Language",
+    "content_type": 2,
+    "codename": "change_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete Language",
+    "content_type": 2,
+    "codename": "delete_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view Language",
+    "content_type": 2,
+    "codename": "view_language"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add Voice Fragment",
+    "content_type": 3,
+    "codename": "add_voicefragment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change Voice Fragment",
+    "content_type": 3,
+    "codename": "change_voicefragment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete Voice Fragment",
+    "content_type": 3,
+    "codename": "delete_voicefragment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view Voice Fragment",
+    "content_type": 3,
+    "codename": "view_voicefragment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add Voice Service Sub-Element",
+    "content_type": 4,
+    "codename": "add_voiceservicesubelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change Voice Service Sub-Element",
+    "content_type": 4,
+    "codename": "change_voiceservicesubelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete Voice Service Sub-Element",
+    "content_type": 4,
+    "codename": "delete_voiceservicesubelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view Voice Service Sub-Element",
+    "content_type": 4,
+    "codename": "view_voiceservicesubelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add Voice Service Element",
+    "content_type": 5,
+    "codename": "add_voiceserviceelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change Voice Service Element",
+    "content_type": 5,
+    "codename": "change_voiceserviceelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete Voice Service Element",
+    "content_type": 5,
+    "codename": "delete_voiceserviceelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view Voice Service Element",
+    "content_type": 5,
+    "codename": "view_voiceserviceelement"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add Voice Service",
+    "content_type": 6,
+    "codename": "add_voiceservice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change Voice Service",
+    "content_type": 6,
+    "codename": "change_voiceservice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete Voice Service",
+    "content_type": 6,
+    "codename": "delete_voiceservice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view Voice Service",
+    "content_type": 6,
+    "codename": "view_voiceservice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add KasaDaka User",
+    "content_type": 7,
+    "codename": "add_kasadakauser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change KasaDaka User",
+    "content_type": 7,
+    "codename": "change_kasadakauser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete KasaDaka User",
+    "content_type": 7,
+    "codename": "delete_kasadakauser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view KasaDaka User",
+    "content_type": 7,
+    "codename": "view_kasadakauser"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add Call Session",
+    "content_type": 8,
+    "codename": "add_callsession"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change Call Session",
+    "content_type": 8,
+    "codename": "change_callsession"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete Call Session",
+    "content_type": 8,
+    "codename": "delete_callsession"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view Call Session",
+    "content_type": 8,
+    "codename": "view_callsession"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add Call Session Step",
+    "content_type": 9,
+    "codename": "add_callsessionstep"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change Call Session Step",
+    "content_type": 9,
+    "codename": "change_callsessionstep"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete Call Session Step",
+    "content_type": 9,
+    "codename": "delete_callsessionstep"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view Call Session Step",
+    "content_type": 9,
+    "codename": "view_callsessionstep"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add Choice Element",
+    "content_type": 10,
+    "codename": "add_choice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change Choice Element",
+    "content_type": 10,
+    "codename": "change_choice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete Choice Element",
+    "content_type": 10,
+    "codename": "delete_choice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view Choice Element",
+    "content_type": 10,
+    "codename": "view_choice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add Voice Service",
+    "content_type": 11,
+    "codename": "add_choiceoption"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change Voice Service",
+    "content_type": 11,
+    "codename": "change_choiceoption"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete Voice Service",
+    "content_type": 11,
+    "codename": "delete_choiceoption"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view Voice Service",
+    "content_type": 11,
+    "codename": "view_choiceoption"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add Message Presentation Element",
+    "content_type": 12,
+    "codename": "add_messagepresentation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change Message Presentation Element",
+    "content_type": 12,
+    "codename": "change_messagepresentation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete Message Presentation Element",
+    "content_type": 12,
+    "codename": "delete_messagepresentation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view Message Presentation Element",
+    "content_type": 12,
+    "codename": "view_messagepresentation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add User Input Category",
+    "content_type": 13,
+    "codename": "add_userinputcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change User Input Category",
+    "content_type": 13,
+    "codename": "change_userinputcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete User Input Category",
+    "content_type": 13,
+    "codename": "delete_userinputcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view User Input Category",
+    "content_type": 13,
+    "codename": "view_userinputcategory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 53,
+  "fields": {
+    "name": "Can add Spoken User Input",
+    "content_type": 14,
+    "codename": "add_spokenuserinput"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 54,
+  "fields": {
+    "name": "Can change Spoken User Input",
+    "content_type": 14,
+    "codename": "change_spokenuserinput"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 55,
+  "fields": {
+    "name": "Can delete Spoken User Input",
+    "content_type": 14,
+    "codename": "delete_spokenuserinput"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 56,
+  "fields": {
+    "name": "Can view Spoken User Input",
+    "content_type": 14,
+    "codename": "view_spokenuserinput"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 57,
+  "fields": {
+    "name": "Can add Spoken Input Element",
+    "content_type": 15,
+    "codename": "add_record"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 58,
+  "fields": {
+    "name": "Can change Spoken Input Element",
+    "content_type": 15,
+    "codename": "change_record"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 59,
+  "fields": {
+    "name": "Can delete Spoken Input Element",
+    "content_type": 15,
+    "codename": "delete_record"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 60,
+  "fields": {
+    "name": "Can view Spoken Input Element",
+    "content_type": 15,
+    "codename": "view_record"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 61,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 16,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 62,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 16,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 63,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 16,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 64,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 16,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 65,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 17,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 66,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 17,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 67,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 17,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 68,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 17,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 69,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 18,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 70,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 18,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 71,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 18,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 72,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 18,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 73,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 19,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 74,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 19,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 75,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 19,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 76,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 19,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 77,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 20,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 78,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 20,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 79,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 20,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 80,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 20,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 81,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 21,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 82,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 21,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 83,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 21,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 84,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 21,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$180000$ehA3gdSBVwi6$xzdsKD6Ay+V7nqH7Zn8c3fAcOG96GdYZ/b6yV59Kv6I=",
+    "last_login": "2020-04-28T13:32:10.094Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "maxvanderburg@live.nl",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-04-25T09:43:43.001Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$180000$tViGFDjQzH7J$Se7WCWSN8XNWvsOsD6yQbOFBbF9N7CC3UArzqStG0jQ=",
+    "last_login": "2020-04-28T10:08:31.390Z",
+    "is_superuser": true,
+    "username": "Admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "dominiquevschagen@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-04-28T10:07:31.892Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2020-04-25T14:04:23.616Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "Voice Service: MeteoCall",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2020-04-25T14:08:02.580Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "26",
+    "object_repr": "Voice Label: Pre-select region",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Pre-select region\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Pre-select region\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2020-04-25T14:10:38.564Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "27",
+    "object_repr": "Voice Label: Region: Gao",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Region: Gao\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Region: Gao\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2020-04-25T14:11:04.033Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "28",
+    "object_repr": "Voice Label: Region: Kidal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Region: Kidal\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Region: Kidal\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2020-04-25T14:11:33.641Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "29",
+    "object_repr": "Voice Label: Region: Kayes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Region: Kayes\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Region: Kayes\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2020-04-25T14:12:58.513Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "30",
+    "object_repr": "Voice Label: Region: Koulikoro",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Region: Koulikoro\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Region: Koulikoro\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2020-04-25T14:13:04.125Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Select region",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Gao\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Kidal\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Kayes\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Koulikoro\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2020-04-25T14:15:19.306Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "31",
+    "object_repr": "Voice Label: Pre-select city",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Pre-select city\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Pre-select city\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2020-04-25T14:16:25.022Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "32",
+    "object_repr": "Voice Label: City: Gao",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Gao\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Gao\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2020-04-25T14:16:55.450Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "33",
+    "object_repr": "Voice Label: City: Bamba",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Bamba\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Bamba\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2020-04-25T14:17:10.268Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "Select city in region Gao",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Gao): Gao\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Gao): Bamba\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2020-04-25T14:20:54.435Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "34",
+    "object_repr": "Voice Label: City: Kayes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Kayes\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Kayes\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2020-04-25T14:21:15.257Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "35",
+    "object_repr": "Voice Label: City: Kita",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Kita\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Kita\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2020-04-25T14:21:26.533Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Select city in region: Kayes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region: Kayes): Kayes\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region: Kayes): Kita\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2020-04-25T14:27:36.337Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "36",
+    "object_repr": "Voice Label: City: Koulikoro",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Koulikoro\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Koulikoro\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2020-04-25T14:28:05.859Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "37",
+    "object_repr": "Voice Label: City: Kati",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Kati\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Kati\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2020-04-25T14:28:19.107Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "19",
+    "object_repr": "Select city in region Koulikoro",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Koulikoro): Koulikoro\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Koulikoro): Kati\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2020-04-25T14:33:43.277Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "38",
+    "object_repr": "Voice Label: City: Kidal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Kidal\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Kidal\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2020-04-25T14:34:11.306Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "39",
+    "object_repr": "Voice Label: City: Tessalit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) City: Tessalit\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) City: Tessalit\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2020-04-25T14:34:27.104Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "22",
+    "object_repr": "Select city in region Kidal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Kidal): Kidal\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Kidal): Tessalit\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2020-04-25T14:35:01.907Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Select region",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Gao\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Kidal\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Kayes\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select region): Koulikoro\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2020-04-25T14:36:52.414Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "40",
+    "object_repr": "Voice Label: Pre-select weather topic",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Pre-select weather topic\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Pre-select weather topic\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2020-04-25T14:39:40.965Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "41",
+    "object_repr": "Voice Label: Previous rainfall",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Previous rainfall\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Previous rainfall\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2020-04-25T14:40:22.636Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "42",
+    "object_repr": "Voice Label: Coming rainfall",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Coming rainfall\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Coming rainfall\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2020-04-25T14:41:48.012Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "43",
+    "object_repr": "Voice Label: Sun intensity",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Sun intensity\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Sun intensity\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2020-04-25T14:42:23.426Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "44",
+    "object_repr": "Voice Label: Wind strength",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Wind strength\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Wind strength\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2020-04-25T14:44:12.077Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "45",
+    "object_repr": "Voice Label: Other region",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Other region\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Other region\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2020-04-25T14:44:43.640Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "46",
+    "object_repr": "Voice Label: End call",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) End call\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) End call\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2020-04-25T14:45:13.620Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Select weather topic in Gao",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Previous rainfall in Gao\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Coming rainfall in Gao\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Sun intensity in Gao\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Wind strength in Gao\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Select another region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): End call\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2020-04-25T14:47:19.263Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "32",
+    "object_repr": "Select weather topic in Kidal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Previous rainfall Kidal\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Coming rainfall Kidal\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Sun intensity Kidal\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Wind strength Kidal\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Select another region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): End call\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2020-04-28T10:18:22.724Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "39",
+    "object_repr": "Select weather topic in Bamba",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): previous rainfall Bamba\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): coming rainfall Bamba\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): sun intensity Bamba\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): wind strength Bamba\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): Select other region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): End\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2020-04-28T10:27:33.951Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "46",
+    "object_repr": "Select weather topic in Kayes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): previous rainfall Kayes\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): coming rainfall Kayes\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): sun intensity Kayes\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): wind strength Kayes\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): Select other region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): End\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2020-04-28T10:28:59.720Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "53",
+    "object_repr": "Select weather topic in Kita",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): previous rainfall Kita\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): coming rainfall Kita\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): sun intensity Kita\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): wind strength Kita\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): Select other region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): End\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2020-04-28T10:30:35.746Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "60",
+    "object_repr": "Select weather topic in Kati",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): previous rainfall Kati\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): coming rainfall Kati\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): sun intensity Kati\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): wind strength Kati\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): Select other region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): End\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2020-04-28T10:50:44.515Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "67",
+    "object_repr": "Select weather topic in Koulikoro",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): previous rainfall Koulikoro\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): coming rainfall Koulikoro\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): sun intensity Koulikoro\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): wind strength Koulikoro\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): Select other region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): End\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2020-04-28T10:52:05.398Z",
+    "user": 2,
+    "content_type": 10,
+    "object_id": "74",
+    "object_repr": "Select weather topic in Tessalit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): previous rainfall Tessalit\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): coming rainfall Tessalit\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): sun intensity Tessalit\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): wind strength Tessalit\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): Select other region\"}}, {\"added\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): End\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2020-04-28T13:51:02.957Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "47",
+    "object_repr": "Voice Label: Prev_Rain_A",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Prev_Rain_A\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Prev_Rain_A\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2020-04-28T13:51:19.556Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "81",
+    "object_repr": "Message: City Gao: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2020-04-28T13:53:01.413Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "48",
+    "object_repr": "Voice Label: Com_Rain_A",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Com_Rain_A\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Com_Rain_A\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2020-04-28T13:53:20.461Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "82",
+    "object_repr": "Message: City Gao: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2020-04-28T13:55:38.383Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "49",
+    "object_repr": "Voice Label: Sun_A",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Sun_A\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Sun_A\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2020-04-28T13:55:47.040Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "83",
+    "object_repr": "Message: City Gao: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2020-04-28T13:56:30.723Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "50",
+    "object_repr": "Voice Label: Wind Strength_A",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Wind Strength_A\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Wind Strength_A\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2020-04-28T13:56:38.124Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "84",
+    "object_repr": "Message: City Gao: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2020-04-28T13:57:12.400Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "85",
+    "object_repr": "Message: City Kita: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2020-04-28T13:57:40.636Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "86",
+    "object_repr": "Message: City Kita: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2020-04-28T13:58:03.613Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "87",
+    "object_repr": "Message: City Kita: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2020-04-28T13:58:18.309Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "88",
+    "object_repr": "Message: City Kita: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2020-04-28T13:59:05.733Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "89",
+    "object_repr": "Message: City Kidal: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2020-04-28T13:59:22.714Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "90",
+    "object_repr": "Message: City Kidal: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2020-04-28T13:59:44.608Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "91",
+    "object_repr": "Message: City Kidal: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2020-04-28T14:00:10.496Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "92",
+    "object_repr": "Message: City Kidal: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2020-04-28T14:00:42.850Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "93",
+    "object_repr": "Message: City Koulikoro: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2020-04-28T14:01:06.745Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "94",
+    "object_repr": "Message: City Koulikoro: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2020-04-28T14:01:26.940Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "95",
+    "object_repr": "Message: City Koulikoro: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2020-04-28T14:01:41.946Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "96",
+    "object_repr": "Message: City Koulikoro: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2020-04-28T14:04:57.028Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "51",
+    "object_repr": "Voice Label: Prev_Rain_B",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Prev_Rain_B\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Prev_Rain_B\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2020-04-28T14:05:05.165Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "97",
+    "object_repr": "Message: City Bamba: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2020-04-28T14:05:46.666Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "52",
+    "object_repr": "Voice Label: Com_Rain_B",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Com_Rain_B\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Com_Rain_B\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2020-04-28T14:05:59.844Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "98",
+    "object_repr": "Message: City Bamba: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2020-04-28T14:06:32.244Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "53",
+    "object_repr": "Voice Label: Sun_B",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Sun_B\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Sun_B\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2020-04-28T14:06:43.595Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "99",
+    "object_repr": "Message: City Bamba: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2020-04-28T14:07:19.049Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "54",
+    "object_repr": "Voice Label: Wind Strength_B",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Wind Strength_B\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Wind Strength_B\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2020-04-28T14:07:30.053Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "100",
+    "object_repr": "Message: City Bamba: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2020-04-28T14:08:00.603Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "101",
+    "object_repr": "Message: City Kayes: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2020-04-28T14:08:22.518Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "102",
+    "object_repr": "Message: City Kayes: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2020-04-28T14:08:40.572Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "103",
+    "object_repr": "Message: City Kayes: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2020-04-28T14:09:05.916Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "104",
+    "object_repr": "Message: City Kayes: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2020-04-28T14:09:34.124Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "105",
+    "object_repr": "Message: City Tessalit: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2020-04-28T14:09:56.726Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "106",
+    "object_repr": "Message: City Tessalit: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2020-04-28T14:10:22.139Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "107",
+    "object_repr": "Message: City Tessalit: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2020-04-28T14:10:37.863Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "108",
+    "object_repr": "Message: City Tessalit: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2020-04-28T14:10:59.793Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "109",
+    "object_repr": "Message: City Kati: Prev_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2020-04-28T14:11:23.533Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "110",
+    "object_repr": "Message: City Kati: Com_Rain",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2020-04-28T14:11:40.449Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "111",
+    "object_repr": "Message: City Kati: Sun",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2020-04-28T14:12:02.421Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "112",
+    "object_repr": "Message: City Kati: Wind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2020-04-28T14:13:08.242Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "55",
+    "object_repr": "Voice Label: Goodbye",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (Nederlands) Goodbye\"}}, {\"added\": {\"name\": \"Voice Fragment\", \"object\": \"Voice Fragment: (English) Goodbye\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2020-04-28T14:13:14.239Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "113",
+    "object_repr": "Message: End call",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2020-04-28T14:16:32.743Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "Select city in region Gao",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Gao): Gao\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Gao): Bamba\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2020-04-28T14:17:03.754Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Select city in region: Kayes",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region: Kayes): Kayes\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region: Kayes): Kita\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2020-04-28T14:17:25.565Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "19",
+    "object_repr": "Select city in region Koulikoro",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Koulikoro): Koulikoro\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Koulikoro): Kati\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2020-04-28T14:17:45.587Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "22",
+    "object_repr": "Select city in region Kidal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Kidal): Kidal\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select city in region Kidal): Tessalit\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2020-04-28T14:19:17.500Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Select weather topic in Gao",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Previous rainfall in Gao\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Coming rainfall in Gao\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Sun intensity in Gao\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Wind strength in Gao\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Select another region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): End call\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2020-04-28T14:20:44.529Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Select weather topic in Gao",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Gao): Select another region\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2020-04-28T14:21:18.850Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "32",
+    "object_repr": "Select weather topic in Kidal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Previous rainfall Kidal\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Coming rainfall Kidal\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Sun intensity Kidal\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Wind strength Kidal\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): Select another region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kidal): End call\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2020-04-28T14:21:54.285Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "39",
+    "object_repr": "Select weather topic in Bamba",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): previous rainfall Bamba\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): coming rainfall Bamba\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): sun intensity Bamba\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): wind strength Bamba\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): Select other region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Bamba): End\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2020-04-28T14:22:33.932Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "46",
+    "object_repr": "Select weather topic in Kayes",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): previous rainfall Kayes\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): coming rainfall Kayes\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): sun intensity Kayes\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): wind strength Kayes\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): Select other region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kayes): End call\", \"fields\": [\"Name\", \"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2020-04-28T14:23:04.778Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "53",
+    "object_repr": "Select weather topic in Kita",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): previous rainfall Kita\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): coming rainfall Kita\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): sun intensity Kita\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): wind strength Kita\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): Select other region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kita): End\", \"fields\": [\"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2020-04-28T14:23:39.301Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "60",
+    "object_repr": "Select weather topic in Kati",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): previous rainfall Kati\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): coming rainfall Kati\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): sun intensity Kati\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): wind strength Kati\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): Select other region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Kati): End call\", \"fields\": [\"Name\", \"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2020-04-28T14:24:16.167Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "67",
+    "object_repr": "Select weather topic in Koulikoro",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): previous rainfall Koulikoro\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): coming rainfall Koulikoro\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): sun intensity Koulikoro\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): wind strength Koulikoro\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): Select other region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Koulikoro): End call\", \"fields\": [\"Name\", \"Redirect element\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2020-04-28T14:25:06.095Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "74",
+    "object_repr": "Select weather topic in Tessalit",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): previous rainfall Tessalit\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): coming rainfall Tessalit\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): sun intensity Tessalit\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): wind strength Tessalit\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): Select other region\", \"fields\": [\"Redirect element\"]}}, {\"changed\": {\"name\": \"Voice Service\", \"object\": \"(Select weather topic in Tessalit): End call\", \"fields\": [\"Name\", \"Redirect element\"]}}]"
+  }
+}
+]
