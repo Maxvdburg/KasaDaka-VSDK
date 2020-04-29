@@ -60,7 +60,7 @@
   "pk": 8,
   "fields": {
     "name": "Please select your language",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -68,7 +68,7 @@
   "pk": 9,
   "fields": {
     "name": "Pre Choice Option",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -84,7 +84,7 @@
   "pk": 11,
   "fields": {
     "name": "One",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -92,7 +92,7 @@
   "pk": 12,
   "fields": {
     "name": "Two",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -100,7 +100,7 @@
   "pk": 13,
   "fields": {
     "name": "Three",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -108,7 +108,7 @@
   "pk": 14,
   "fields": {
     "name": "Four",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -116,7 +116,7 @@
   "pk": 15,
   "fields": {
     "name": "Five",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -124,7 +124,7 @@
   "pk": 16,
   "fields": {
     "name": "Six",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -132,7 +132,7 @@
   "pk": 17,
   "fields": {
     "name": "Seven",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -140,7 +140,7 @@
   "pk": 18,
   "fields": {
     "name": "Eight",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -148,7 +148,7 @@
   "pk": 19,
   "fields": {
     "name": "Nine",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -156,7 +156,7 @@
   "pk": 20,
   "fields": {
     "name": "Zero",
-    "description": ""
+    "description": null
   }
 },
 {
@@ -578,7 +578,7 @@
   "fields": {
     "parent": 20,
     "language": 1,
-    "audio": "0_nl.wav"
+    "audio": "nul.wav"
   }
 },
 {
@@ -587,7 +587,7 @@
   "fields": {
     "parent": 20,
     "language": 2,
-    "audio": "0_en.wav"
+    "audio": "zero.wav"
   }
 },
 {
@@ -596,7 +596,7 @@
   "fields": {
     "parent": 20,
     "language": 3,
-    "audio": "0_fr.wav"
+    "audio": "nul_HdG4AYK.wav"
   }
 },
 {
@@ -605,7 +605,7 @@
   "fields": {
     "parent": 19,
     "language": 1,
-    "audio": "9_nl.wav"
+    "audio": "negen.wav"
   }
 },
 {
@@ -614,7 +614,7 @@
   "fields": {
     "parent": 19,
     "language": 2,
-    "audio": "9_en.wav"
+    "audio": "nine.wav"
   }
 },
 {
@@ -623,7 +623,7 @@
   "fields": {
     "parent": 19,
     "language": 3,
-    "audio": "9_fr.wav"
+    "audio": "neuf.wav"
   }
 },
 {
@@ -632,7 +632,7 @@
   "fields": {
     "parent": 18,
     "language": 1,
-    "audio": "8_nl.wav"
+    "audio": "acht.wav"
   }
 },
 {
@@ -641,7 +641,7 @@
   "fields": {
     "parent": 18,
     "language": 2,
-    "audio": "8_en.wav"
+    "audio": "eight.wav"
   }
 },
 {
@@ -650,7 +650,7 @@
   "fields": {
     "parent": 18,
     "language": 3,
-    "audio": "8_fr.wav"
+    "audio": "huit.wav"
   }
 },
 {
@@ -659,7 +659,7 @@
   "fields": {
     "parent": 17,
     "language": 1,
-    "audio": "7_nl.wav"
+    "audio": "zeven.wav"
   }
 },
 {
@@ -668,7 +668,7 @@
   "fields": {
     "parent": 17,
     "language": 2,
-    "audio": "7_en.wav"
+    "audio": "seven.wav"
   }
 },
 {
@@ -677,7 +677,7 @@
   "fields": {
     "parent": 17,
     "language": 3,
-    "audio": "7_fr.wav"
+    "audio": "sept.wav"
   }
 },
 {
@@ -686,7 +686,7 @@
   "fields": {
     "parent": 16,
     "language": 1,
-    "audio": "6_nl.wav"
+    "audio": "zes.wav"
   }
 },
 {
@@ -695,7 +695,7 @@
   "fields": {
     "parent": 16,
     "language": 2,
-    "audio": "6_en.wav"
+    "audio": "six.wav"
   }
 },
 {
@@ -704,7 +704,7 @@
   "fields": {
     "parent": 16,
     "language": 3,
-    "audio": "6_fr.wav"
+    "audio": "six_Yu2DHw3.wav"
   }
 },
 {
@@ -713,7 +713,7 @@
   "fields": {
     "parent": 15,
     "language": 1,
-    "audio": "5_nl.wav"
+    "audio": "vijf.wav"
   }
 },
 {
@@ -722,7 +722,7 @@
   "fields": {
     "parent": 15,
     "language": 2,
-    "audio": "5_en.wav"
+    "audio": "five.wav"
   }
 },
 {
@@ -731,7 +731,7 @@
   "fields": {
     "parent": 15,
     "language": 3,
-    "audio": "5_fr.wav"
+    "audio": "cinq.wav"
   }
 },
 {
@@ -740,7 +740,7 @@
   "fields": {
     "parent": 14,
     "language": 1,
-    "audio": "4_nl.wav"
+    "audio": "vier.wav"
   }
 },
 {
@@ -749,7 +749,7 @@
   "fields": {
     "parent": 14,
     "language": 3,
-    "audio": "4_fr.wav"
+    "audio": "four.wav"
   }
 },
 {
@@ -758,7 +758,7 @@
   "fields": {
     "parent": 14,
     "language": 2,
-    "audio": "4_en.wav"
+    "audio": "quatre.wav"
   }
 },
 {
@@ -767,7 +767,7 @@
   "fields": {
     "parent": 13,
     "language": 1,
-    "audio": "3_nl.wav"
+    "audio": "drie.wav"
   }
 },
 {
@@ -776,7 +776,7 @@
   "fields": {
     "parent": 13,
     "language": 2,
-    "audio": "3_en.wav"
+    "audio": "three.wav"
   }
 },
 {
@@ -785,7 +785,7 @@
   "fields": {
     "parent": 13,
     "language": 3,
-    "audio": "3_fr.wav"
+    "audio": "trois.wav"
   }
 },
 {
@@ -794,7 +794,7 @@
   "fields": {
     "parent": 12,
     "language": 1,
-    "audio": "2_nl.wav"
+    "audio": "twee.wav"
   }
 },
 {
@@ -803,7 +803,7 @@
   "fields": {
     "parent": 12,
     "language": 2,
-    "audio": "2_en.wav"
+    "audio": "two.wav"
   }
 },
 {
@@ -812,7 +812,7 @@
   "fields": {
     "parent": 12,
     "language": 3,
-    "audio": "2_fr.wav"
+    "audio": "deux.wav"
   }
 },
 {
@@ -821,7 +821,7 @@
   "fields": {
     "parent": 11,
     "language": 1,
-    "audio": "1_nl.wav"
+    "audio": "een.wav"
   }
 },
 {
@@ -830,7 +830,7 @@
   "fields": {
     "parent": 11,
     "language": 2,
-    "audio": "1_en.wav"
+    "audio": "one.wav"
   }
 },
 {
@@ -839,7 +839,7 @@
   "fields": {
     "parent": 11,
     "language": 3,
-    "audio": "1_fr.wav"
+    "audio": "une.wav"
   }
 },
 {
@@ -875,7 +875,7 @@
   "fields": {
     "parent": 9,
     "language": 1,
-    "audio": "pre_choice_option_nl.wav"
+    "audio": "pre_choice_NL.wav"
   }
 },
 {
@@ -884,7 +884,7 @@
   "fields": {
     "parent": 9,
     "language": 2,
-    "audio": "pre_choice_option_en.wav"
+    "audio": "pre_choice_en.wav"
   }
 },
 {
@@ -893,7 +893,7 @@
   "fields": {
     "parent": 9,
     "language": 3,
-    "audio": "pre_choice_option_fr.wav"
+    "audio": "pre_choice_fr.wav"
   }
 },
 {
@@ -902,7 +902,7 @@
   "fields": {
     "parent": 8,
     "language": 1,
-    "audio": "select_language_nl.wav"
+    "audio": "select_language_nl_9XDF9Tb.wav"
   }
 },
 {
@@ -911,7 +911,7 @@
   "fields": {
     "parent": 8,
     "language": 2,
-    "audio": "select_language_en.wav"
+    "audio": "select_language_en_gFE3jPr.wav"
   }
 },
 {
@@ -920,7 +920,7 @@
   "fields": {
     "parent": 8,
     "language": 3,
-    "audio": "select_language_fr.wav"
+    "audio": "select_language_fr_B4n6eQ6.wav"
   }
 },
 {
@@ -1677,6 +1677,267 @@
     "parent": 27,
     "language": 3,
     "audio": "Gao_7rSG6C5.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 136,
+  "fields": {
+    "parent": 28,
+    "language": 3,
+    "audio": "Kidal_EJ80CTi.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 137,
+  "fields": {
+    "parent": 29,
+    "language": 3,
+    "audio": "Kayes_NYxvJ9Q.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 138,
+  "fields": {
+    "parent": 30,
+    "language": 3,
+    "audio": "Koulikoro_sSH1hfF.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 139,
+  "fields": {
+    "parent": 26,
+    "language": 3,
+    "audio": "choisissez_votre_region.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 140,
+  "fields": {
+    "parent": 32,
+    "language": 3,
+    "audio": "Gao_KCdKCcf.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 141,
+  "fields": {
+    "parent": 33,
+    "language": 3,
+    "audio": "Bamba_vckJ5kK.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 142,
+  "fields": {
+    "parent": 31,
+    "language": 3,
+    "audio": "choisissez_votre_ville.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 143,
+  "fields": {
+    "parent": 34,
+    "language": 3,
+    "audio": "Kayes_IHPvUDs.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 144,
+  "fields": {
+    "parent": 35,
+    "language": 3,
+    "audio": "Kita_ZRJ3cEr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 145,
+  "fields": {
+    "parent": 36,
+    "language": 3,
+    "audio": "Koulikoro_b4HaFRR.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 146,
+  "fields": {
+    "parent": 37,
+    "language": 3,
+    "audio": "Kati_TgovRAb.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 147,
+  "fields": {
+    "parent": 38,
+    "language": 3,
+    "audio": "Kidal_wGLib8h.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 148,
+  "fields": {
+    "parent": 39,
+    "language": 3,
+    "audio": "Tessalit_3OqkhMP.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 149,
+  "fields": {
+    "parent": 40,
+    "language": 3,
+    "audio": "chooseweather_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 150,
+  "fields": {
+    "parent": 41,
+    "language": 3,
+    "audio": "previous_rainfall_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 151,
+  "fields": {
+    "parent": 42,
+    "language": 3,
+    "audio": "coming_rainfall_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 152,
+  "fields": {
+    "parent": 43,
+    "language": 3,
+    "audio": "sun_intensity_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 153,
+  "fields": {
+    "parent": 44,
+    "language": 3,
+    "audio": "wind_strength_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 154,
+  "fields": {
+    "parent": 46,
+    "language": 3,
+    "audio": "end_call_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 155,
+  "fields": {
+    "parent": 45,
+    "language": 3,
+    "audio": "other_region_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 156,
+  "fields": {
+    "parent": 47,
+    "language": 3,
+    "audio": "prev_rain_10_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 157,
+  "fields": {
+    "parent": 48,
+    "language": 3,
+    "audio": "com_rain_5_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 158,
+  "fields": {
+    "parent": 49,
+    "language": 3,
+    "audio": "sun_6_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 159,
+  "fields": {
+    "parent": 50,
+    "language": 3,
+    "audio": "wind_1_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 160,
+  "fields": {
+    "parent": 51,
+    "language": 3,
+    "audio": "prev_rain_5_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 161,
+  "fields": {
+    "parent": 52,
+    "language": 3,
+    "audio": "com_rain_10_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 162,
+  "fields": {
+    "parent": 53,
+    "language": 3,
+    "audio": "sun_4_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 163,
+  "fields": {
+    "parent": 54,
+    "language": 3,
+    "audio": "wind_2_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 164,
+  "fields": {
+    "parent": 55,
+    "language": 3,
+    "audio": "thanks_fr.wav"
   }
 },
 {
