@@ -33,14 +33,12 @@ def make_audio_file(text,filename,city,date):
 
 def convert_mp3_to_wav():
     os.system("./mp3_to_wav.sh {}".format(script_filename))
-    #os.system("sh ./mp3_to_wav.sh") # convert all .mp3 files to .wav files
-    #os.system("sh ./convert_wav.sh") # convert all .wav files into wav files with sample rate 8KHz, 16 bit, mono, Codec: PCM 16 LE (s16l)
 
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
 
 def make_one_file():
-    os.system("./converted/gao") #sox "forecast*" forecast.wav
+    os.system("./make_one_file.sh {}".format(script_filename))
 
 def make_forecast(name, lat, lon):
     with open('database_gao.csv','a') as db:
@@ -78,5 +76,6 @@ def make_filename():
             filename = 'wind_'
             make_audio_file(record,filename,city,date)
     convert_mp3_to_wav()
+    make_one_file()
     remove_audio_files()
 make_filename()

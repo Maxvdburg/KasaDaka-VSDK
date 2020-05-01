@@ -12,9 +12,9 @@ import csv
 api_key=('57519d394c970d37633e800dc962803c')
 script_filename = __file__.split('.')[0]
 
-name = 'Gao'
-lat = '16.6362'
-lon = '1.637'
+name = 'Kidal'
+lat = '18.4411'
+lon = '1.4078'
 
 def correct_time(unix):
     stamp = int(unix)
@@ -38,6 +38,9 @@ def convert_mp3_to_wav():
 
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
+
+def make_one_file():
+    os.system("./make_one_file.sh {}".format(script_filename))
 
 def make_forecast(name, lat, lon):
     with open('database_gao.csv','a') as db:
@@ -76,4 +79,5 @@ def make_filename():
             make_audio_file(record,filename,city,date)
     convert_mp3_to_wav()
     remove_audio_files()
+    make_one_file()
 make_filename()
