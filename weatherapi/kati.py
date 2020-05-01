@@ -12,9 +12,9 @@ import csv
 api_key=('57519d394c970d37633e800dc962803c')
 script_filename = __file__.split('.')[0]
 
-name = 'Gao'
-lat = '16.6362'
-lon = '1.637'
+name = 'Kati'
+lat = '12.7441'
+lon = '-8.0726'
 
 def correct_time(unix):
     stamp = int(unix)
@@ -40,7 +40,7 @@ def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
 
 def make_forecast(name, lat, lon):
-    with open('database_gao.csv','a') as db:
+    with open('database_kati.csv','a') as db:
         writer = csv.writer(db, delimiter=',')
         weather = get_weather(api_key, lat, lon)
         for i in range(len(weather)):
@@ -53,7 +53,7 @@ def make_forecast(name, lat, lon):
 
 make_forecast(name, lat, lon)
 
-file = open('database_gao.csv', 'r') #open de database
+file = open('database_kati.csv', 'r') #open de database
 def make_filename():
     city = '' #lege variabele die wordt gevuld indien nieuwe citynaam wordt gevonden
     date = '' #lege variabele die wordt gevuld indien nieuwe datum wordt gevonden
