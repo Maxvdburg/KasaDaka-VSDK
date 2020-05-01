@@ -39,6 +39,9 @@ def convert_mp3_to_wav():
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
 
+def make_one_file():
+    os.system("./converted/gao") #sox "forecast*" forecast.wav
+
 def make_forecast(name, lat, lon):
     with open('database_gao.csv','a') as db:
         writer = csv.writer(db, delimiter=',')
