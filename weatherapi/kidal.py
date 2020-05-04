@@ -12,9 +12,9 @@ import csv
 api_key=('57519d394c970d37633e800dc962803c')
 script_filename = __file__.split('.')[0]
 
-name = 'Gao'
-lat = '16.6362'
-lon = '1.637'
+name = 'Kidal'
+lat = '18.4411'
+lon = '1.4078'
 
 def correct_time(unix):
     stamp = int(unix)
@@ -33,6 +33,8 @@ def make_audio_file(text,filename,city,date):
 
 def convert_mp3_to_wav():
     os.system("./mp3_to_wav.sh {}".format(script_filename))
+    #os.system("sh ./mp3_to_wav.sh") # convert all .mp3 files to .wav files
+    #os.system("sh ./convert_wav.sh") # convert all .wav files into wav files with sample rate 8KHz, 16 bit, mono, Codec: PCM 16 LE (s16l)
 
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
@@ -76,6 +78,6 @@ def make_filename():
             filename = 'wind_'
             make_audio_file(record,filename,city,date)
     convert_mp3_to_wav()
-    make_one_file()
     remove_audio_files()
+    make_one_file()
 make_filename()

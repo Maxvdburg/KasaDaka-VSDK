@@ -12,9 +12,9 @@ import csv
 api_key=('57519d394c970d37633e800dc962803c')
 script_filename = __file__.split('.')[0]
 
-name = 'Gao'
-lat = '16.6362'
-lon = '1.637'
+name = 'Tessalit'
+lat = '20.1986'
+lon = '1.0114'
 
 def correct_time(unix):
     stamp = int(unix)
@@ -33,6 +33,8 @@ def make_audio_file(text,filename,city,date):
 
 def convert_mp3_to_wav():
     os.system("./mp3_to_wav.sh {}".format(script_filename))
+    #os.system("sh ./mp3_to_wav.sh") # convert all .mp3 files to .wav files
+    #os.system("sh ./convert_wav.sh") # convert all .wav files into wav files with sample rate 8KHz, 16 bit, mono, Codec: PCM 16 LE (s16l)
 
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
@@ -41,7 +43,7 @@ def make_one_file():
     os.system("./make_one_file.sh {}".format(script_filename))
 
 def make_forecast(name, lat, lon):
-    with open('database_gao.csv','a') as db:
+    with open('database_tessalit.csv','a') as db:
         writer = csv.writer(db, delimiter=',')
         weather = get_weather(api_key, lat, lon)
         for i in range(len(weather)):
@@ -54,7 +56,7 @@ def make_forecast(name, lat, lon):
 
 make_forecast(name, lat, lon)
 
-file = open('database_gao.csv', 'r') #open de database
+file = open('database_tessalit.csv', 'r') #open de database
 def make_filename():
     city = '' #lege variabele die wordt gevuld indien nieuwe citynaam wordt gevonden
     date = '' #lege variabele die wordt gevuld indien nieuwe datum wordt gevonden
@@ -76,6 +78,6 @@ def make_filename():
             filename = 'wind_'
             make_audio_file(record,filename,city,date)
     convert_mp3_to_wav()
-    make_one_file()
     remove_audio_files()
+    make_one_file()
 make_filename()
