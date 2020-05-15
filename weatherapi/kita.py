@@ -18,7 +18,7 @@ lon = '-9.4895'
 
 def correct_time(unix):
     stamp = int(unix)
-    return(datetime.utcfromtimestamp(stamp).strftime('%Y-%m-%d %H:%M:%S'))
+    return(datetime.utcfromtimestamp(stamp).strftime('%Y-%m-%d'))
 
 def get_weather(api_key, lat, lon):
     url = "https://api.openweathermap.org/data/2.5/onecall?lat={}&lon={}&units=metric&appid={}".format(lat, lon, api_key)
@@ -39,20 +39,26 @@ def convert_mp3_to_wav():
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
 
+def clear_converted_map():
+    os.system("sh ./clear_converted_map.sh {}".format(script_filename)) # remove all .wav files in the converted city map
+
 def make_one_file():
     os.system("./make_one_file.sh {}".format(script_filename))
 
 def make_forecast(name, lat, lon):
-    with open('database_kita.csv','a') as db:
+    with open('database_kita.csv','w') as db:
         writer = csv.writer(db, delimiter=',')
         weather = get_weather(api_key, lat, lon)
         for i in range(len(weather)):
             writer.writerow(("Weather forecast in",name,"for",correct_time((weather['daily'][i]['dt']))))
-            writer.writerow(("the expected maximum temperature is",weather['daily'][i]['temp']['max'],"celsius"))
-            writer.writerow(("the expected sun intensity on UV scale is",weather['daily'][i]['uvi']))
+            for data in weather:
+                if 'rain' in data:
+                    writer.writerow(("the expected rainfall is",weather['daily'][i]['rain'],"millimeters"))
+                else:
+                    writer.writerow(("There is no rainfall", "expected"))
+            writer.writerow(("the expected temperature is",weather['daily'][i]['temp']['day'],"celsius"))
             writer.writerow(("the expected windstrength is",weather['daily'][i]['wind_speed'],"kilometers"))
-            if i >= 2: #haal dit weg om de gehele db te maken, heb dit puur gedaan om
-                break  #ervoor te zorgen dat je niet ineens 1000 audio files maakt
+            break  #ervoor te zorgen dat je niet ineens 1000 audio files maakt
 
 make_forecast(name, lat, lon)
 
@@ -68,16 +74,17 @@ def make_filename():
             date = (split_record_name[3].split(' ')[0])
             filename = 'forecast_'
             make_audio_file(record,filename,city,date)
-        elif 'maximum' in record:
-            filename = 'maximum_temp_'
+        elif 'temperature' in record:
+            filename = 'temp_'
             make_audio_file(record,filename,city,date)
-        elif 'sun' in record:
-            filename = 'sun_intensity_'
+        elif 'rain' in record:
+            filename = 'rainfall_'
             make_audio_file(record,filename,city,date)
         else:
             filename = 'wind_'
             make_audio_file(record,filename,city,date)
     convert_mp3_to_wav()
-    remove_audio_files()
     make_one_file()
+    remove_audio_files()
+clear_converted_map()
 make_filename()
