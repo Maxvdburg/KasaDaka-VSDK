@@ -25,25 +25,19 @@ def get_weather(api_key, lat, lon):
     r = requests.get(url)
     return r.json()
 
-def make_audio_file(text,filename,city,date):
-    language = 'en'
+def make_audio_file(language,text,filename,city):
     tts = gTTS(text=text, lang=language, slow=False)
-    file = (filename+city+date)
+    file = (filename+city)
     tts.save(file+'.mp3')
 
-def clear_converted_map():
-    os.system("sh ./clear_converted_map.sh {}".format(script_filename)) # remove all .wav files in the converted city map
-
 def convert_mp3_to_wav():
-    os.system("./mp3_to_wav.sh {}".format(script_filename))
-    #os.system("sh ./mp3_to_wav.sh") # convert all .mp3 files to .wav files
-    #os.system("sh ./convert_wav.sh") # convert all .wav files into wav files with sample rate 8KHz, 16 bit, mono, Codec: PCM 16 LE (s16l)
+    os.system("sh ./mp3_to_wav.sh {}".format(script_filename))
 
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
 
-def make_one_file():
-    os.system("./make_one_file.sh {}".format(script_filename))
+def clear_converted_map():
+    os.system("sh ./clear_converted_map.sh {}".format(script_filename)) # remove all .wav files in the converted city map
 
 def make_forecast(name, lat, lon):
     with open('database_koulikoro.csv','w') as db:
@@ -58,9 +52,19 @@ def make_forecast(name, lat, lon):
                     writer.writerow(("There is no rainfall", "expected"))
             writer.writerow(("the expected temperature is",weather['daily'][i]['temp']['day'],"celsius"))
             writer.writerow(("the expected windstrength is",weather['daily'][i]['wind_speed'],"kilometers"))
+            ### add french translations to database
+            writer.writerow(("Prévisions météo dans",name,"pour",correct_time((weather['daily'][i]['dt']))))
+            for data in weather:
+                if 'rain' in data:
+                    writer.writerow(("les précipitations attendues sont",weather['daily'][i]['rain'],"millimeters"))
+                else:
+                    writer.writerow(("Il n'y a pas de précipitations", "attendues"))
+            writer.writerow(("la température attendue est",weather['daily'][i]['temp']['day'],"celsius"))
+            writer.writerow(("la force du vent attendue est",weather['daily'][i]['wind_speed'],"kilometers"))
             break  #ervoor te zorgen dat je niet ineens 1000 audio files maakt
 
 make_forecast(name, lat, lon)
+
 
 file = open('database_koulikoro.csv', 'r') #open de database
 def make_filename():
@@ -70,21 +74,33 @@ def make_filename():
         filename = ''
         if "forecast" in record:
             split_record_name = (record.split(','))
-            city = (split_record_name[1]+"_")
-            date = (split_record_name[3].split(' ')[0])
-            filename = 'forecast_'
-            make_audio_file(record,filename,city,date)
+            city = (split_record_name[1])
+            filename = 'en_forecast_'
+            make_audio_file('en',record,filename,city)
         elif 'temperature' in record:
-            filename = 'temp_'
-            make_audio_file(record,filename,city,date)
+            filename = 'en_temp_'
+            make_audio_file('en',record,filename,city)
         elif 'rain' in record:
-            filename = 'rainfall_'
-            make_audio_file(record,filename,city,date)
+            filename = 'en_rainfall_'
+            make_audio_file('en',record,filename,city)
+        elif 'wind' in record:
+            filename = 'en_wind_'
+            make_audio_file('en',record,filename,city)
+        elif "Prévisions" in record:
+            split_record_name = (record.split(','))
+            city = (split_record_name[1])
+            filename = 'fr_forecast_'
+            make_audio_file('fr',record,filename,city)
+        elif 'température' in record:
+            filename = 'fr_temp_'
+            make_audio_file('fr',record,filename,city)
+        elif 'précipitations' in record:
+            filename = 'fr_rainfall_'
+            make_audio_file('fr',record,filename,city)
         else:
-            filename = 'wind_'
-            make_audio_file(record,filename,city,date)
+            filename = 'fr_wind_'
+            make_audio_file('fr',record,filename,city)
     convert_mp3_to_wav()
-    make_one_file()
     remove_audio_files()
 clear_converted_map()
 make_filename()
