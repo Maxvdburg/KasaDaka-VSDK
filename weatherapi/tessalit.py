@@ -25,19 +25,22 @@ def get_weather(api_key, lat, lon):
     r = requests.get(url)
     return r.json()
 
-def make_audio_file(language,text,filename,city):
+def make_audio_file(language,text,filename,city,date):
     tts = gTTS(text=text, lang=language, slow=False)
-    file = (filename+city)
+    file = (filename+city+date)
     tts.save(file+'.mp3')
 
 def convert_mp3_to_wav():
-    os.system("sh ./mp3_to_wav.sh {}".format(script_filename))
+    os.system("sh ./mp3_to_wav.sh {}".format(script_filename)) # convert all .mp3 files to .wav files
 
 def remove_audio_files():
     os.system("sh ./remove_audio_files.sh") # remove all .mp3 and .wav files to clear diskspace
 
 def clear_converted_map():
     os.system("sh ./clear_converted_map.sh {}".format(script_filename)) # remove all .wav files in the converted city map
+
+def make_one_weatherforecast():
+    os.system("sh ./make_one_file.sh {}".format(script_filename)) # create one single file for each forecast
 
 def make_forecast(name, lat, lon):
     with open('database_tessalit.csv','w') as db:
@@ -61,46 +64,49 @@ def make_forecast(name, lat, lon):
                     writer.writerow(("Il n'y a pas de précipitations", "attendues"))
             writer.writerow(("la température attendue est",weather['daily'][i]['temp']['day'],"celsius"))
             writer.writerow(("la force du vent attendue est",weather['daily'][i]['wind_speed'],"kilometers"))
-            break  #ervoor te zorgen dat je niet ineens 1000 audio files maakt
+            break
 
 make_forecast(name, lat, lon)
 
 
-file = open('database_tessalit.csv', 'r') #open de database
+file = open('database_tessalit.csv', 'r')
 def make_filename():
-    city = '' #lege variabele die wordt gevuld indien nieuwe citynaam wordt gevonden
-    date = '' #lege variabele die wordt gevuld indien nieuwe datum wordt gevonden
+    city = ''
+    date = ''
     for record in file:
         filename = ''
         if "forecast" in record:
             split_record_name = (record.split(','))
             city = (split_record_name[1])
+            date = (split_record_name[3].split(' ')[0])
             filename = 'en_forecast_'
-            make_audio_file('en',record,filename,city)
+            make_audio_file('en',record,filename,city,date)
         elif 'temperature' in record:
             filename = 'en_temp_'
-            make_audio_file('en',record,filename,city)
+            make_audio_file('en',record,filename,city,date)
         elif 'rain' in record:
             filename = 'en_rainfall_'
-            make_audio_file('en',record,filename,city)
+            make_audio_file('en',record,filename,city,date)
         elif 'wind' in record:
             filename = 'en_wind_'
-            make_audio_file('en',record,filename,city)
+            make_audio_file('en',record,filename,city,date)
         elif "Prévisions" in record:
             split_record_name = (record.split(','))
             city = (split_record_name[1])
+            date = (split_record_name[3].split(' ')[0])
             filename = 'fr_forecast_'
-            make_audio_file('fr',record,filename,city)
+            make_audio_file('fr',record,filename,city,date)
         elif 'température' in record:
             filename = 'fr_temp_'
-            make_audio_file('fr',record,filename,city)
+            make_audio_file('fr',record,filename,city,date)
         elif 'précipitations' in record:
             filename = 'fr_rainfall_'
-            make_audio_file('fr',record,filename,city)
+            make_audio_file('fr',record,filename,city,date)
         else:
             filename = 'fr_wind_'
-            make_audio_file('fr',record,filename,city)
+            make_audio_file('fr',record,filename,city,date)
     convert_mp3_to_wav()
     remove_audio_files()
+    make_one_weatherforecast()
 clear_converted_map()
 make_filename()
